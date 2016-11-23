@@ -5,8 +5,6 @@ public class Assignment_1_1 {
 		int a = 10;
 		int b = 20;
 		
-		int c = a+b;
-		
 		//first method
 		int i;
 		for (i=1; i<=b; i++)
